@@ -1,0 +1,279 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1$$anonfun$apply$1.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$2.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$3.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$4.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$5.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$6.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$7.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$8.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$main$1.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$.class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp.class
+binary dependencies:
+6 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$1$$anonfun$apply$1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$2
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$3
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$4
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$5
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$6
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$7
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$8
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp$$anonfun$main$1
+used names:
+149 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> +
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> <byname>
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> <init>
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> <repeated>
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Any
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> AnyRef
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Array
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> ArrayOps
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> B
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Boolean
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> BoostingStrategy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Builder
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> CanBuildFrom
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> CharSequence
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Class
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> ClassTag
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Column
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> DataFrame
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> DataFrameReader
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Dataset
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Double
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Function1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> GradientBoostedTrees
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> GradientBoostedTreesModel
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> HashingTF
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Int
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Iterable
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> LabeledPoint
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Long
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> MatchError
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Math
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Nothing
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Object
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Predef
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> RDD
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Row
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SAApp
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SQLContext
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Seq
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> SparkSession
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Strategy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> String
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Success
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> T
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> T1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> T2
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> T3
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> That
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Try
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Tuple2
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Tuple3
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> U
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Unit
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> Vector
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _$1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _$4
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _$7
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _1
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _2
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> _3
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> apache
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> appName
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> apply
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> boostingStrategy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> builder
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> canBuildFrom
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> configuration
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> contains
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> count
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> countHappy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> countUnhappy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> defaultParams
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> feature
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> features
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> filter
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> foreach
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> get
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> getOrCreate
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> goodBadRecords
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> happyMessages
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> hashingTF
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> input_labeled
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> isHappy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> isSuccess
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> java
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> json
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> label
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> labeledTweets
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> lang
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> limit
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> map
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> materializeClassTag
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> messages
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> messagesRDD
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> min
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> mkString
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> mllib
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> model
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> msg
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> msgSanitized
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> ne
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> org
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> package
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> point
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> predict
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> prediction
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> predictions
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> println
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> randomSplit
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> rdd
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> read
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> refArrayOps
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> regression
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> replaceAll
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> row
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> sample
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> scala
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> select
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> setMaxDepth
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> setNumClasses
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> setNumIterations
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> smallest
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> spark
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> sparkSession
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> split
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> splits
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> sql
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> sqlContext
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> stop
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> t
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> take
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> testingData
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> toDouble
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> toInt
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> toLowerCase
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> toSeq
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> toString
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> train
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> trainingData
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> transform
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> tree
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> treeStrategy
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> tweetDF
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> tweets
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> unchecked
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> unhappyMessages
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> unionAll
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> util
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> x
+product stamps:
+12 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1$$anonfun$apply$1.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$2.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$3.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$4.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$5.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$6.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$7.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$8.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$main$1.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$.class -> lastModified(1513002759000)
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp.class -> lastModified(1513002759000)
+source stamps:
+1 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> hash(fa798d286d2de6b5b8bc03ca3faf2636a915c82c)
+binary stamps:
+6 items
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> lastModified(1478576760000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> lastModified(1478576545000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> lastModified(1478576957000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> lastModified(1478576896000)
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+6 items
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> org.apache.spark.sql.Row
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> org.apache.spark.rdd.RDD
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> org.apache.spark.mllib.linalg.Vector
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> org.apache.spark.sql.Dataset
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Tuple2$
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwj1gymwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpfFlP3QABm5vdGlmeXNxAH4ADL7hxbV0AAR3YWl0c3EAfgAMxIsTIHQADSRhc0luc3RhbmNlT2ZzcQB+AAw4wb+QdAAGZXF1YWxzc3EAfgAM0w+FrHQADGFzSW5zdGFuY2VPZnNxAH4ADNmCRSF0AAxzeW5jaHJvbml6ZWRzcQB+AAw1e/i7dAANJGlzSW5zdGFuY2VPZnNxAH4ADGL1dcR0AARtYWluc3EAfgAMVySyQXQACW5vdGlmeUFsbHNxAH4ADD1o+Yp0AAxpc0luc3RhbmNlT2ZzcQB+AAy/DvIWdAAFU0FBcHBzcQB+AAwV2EZ9dAACPT1zcQB+AAyBd/CNdAAFY2xvbmVzcQB+AAy0rYT6dAAMc3BhcmtTZXNzaW9uc3EAfgAMm1atFnQACHRvU3RyaW5nc3EAfgAMYBvuKHQAAiE9c3EAfgAMpIp5QXQACGdldENsYXNzc3EAfgAMsr9d5nQAAm5lc3EAfgAMUVZ9O3QAAmVxc3EAfgAM4g1tn3QAAiMjc3EAfgAMZqEw0XQACGZpbmFsaXplc3EAfgAMGUaCeHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AX3NxAH4AWnVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AHXVxAH4AUgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF5zcQB+AG10AAVBcnJheXEAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG10AAZTdHJpbmdzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5dAAEamF2YXNxAH4AeXQABGxhbmdxAH4AfnNxAH4AWnVxAH4APgAAAABzcQB+AFp1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgRf3dfHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFcvaG9tZS91YnVudHUvcGxheS1ncm91bmQvc3Bhcmstc2NhbGEvU3BhcmtTZW50aW1lbnRBbmFseXNpc18xL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT6eY0obS3mtbi8A8o/ryY2qRXILA==
+external apis:
+0 items
+source infos:
+1 items
+/home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/src/main/scala/SAApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYCI9cXl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYCXN/ll1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDvPx0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDvSqNp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDvYOUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDv0qjx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDv2Ysh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDxfB4t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDxpi9h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYEXo8/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYEX93Xx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL3VidW50dS9wbGF5LWdyb3VuZC9zcGFyay1zY2FsYS9TcGFya1NlbnRpbWVudEFuYWx5c2lzXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

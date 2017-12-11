@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/saapp_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$.class[0m
+[0m[[0mdebug[0m] [0m	SAApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	SAApp$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/play-ground/spark-scala/SparkSentimentAnalysis_1/target/scala-2.11/classes/SAApp$$anonfun$3.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
